@@ -13,7 +13,6 @@ int main(){
                 a[0] = a[i];
             }
         }
-        cout<<a[0];
         if(a[0]>n){
             cout<<n<<endl;
         }
